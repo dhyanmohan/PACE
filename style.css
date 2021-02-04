@@ -1,0 +1,94 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: black;
+    background-color:;
+    font-size: 50;
+    font-family: monospace;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+h3{
+
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+p{
+    background-color:blanchedalmond;
+    color: black;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-top: 0;
+}
+ul{
+    list-style-type: none;
+    padding: 15px;
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+    
+}
+li{
+    color: white;
+    background-color: black;
+    display: block;
+    display: inline;
+    text-align: center;
+    padding: 14px 16px;
+    
+}
+li:hover{
+    background-color: gray;
+    ;
+
+}
+input{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    border-color: black;
+}
+input:hover{
+    background-color: gray;
+}
+img{
+    border-radius: 10px;
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1600px;
+      
+    
+    }
+h4{
+    background-color: gray;
+    color: white;
+    padding: 60px;
+    font-family: sans-serif;
+}
+form{
+    background-color: bisque;
+    margin-top: 5px;
+    border-radius: 30PX;
+}
+table{
+    background-color: bisque;
+}
+
+
+
